@@ -3,8 +3,8 @@ class Imgp < Formula
 
   desc "Image resizer and rotator"
   homepage "https://github.com/jarun/imgp"
-  url "https://github.com/jarun/imgp/archive/v2.3.tar.gz"
-  sha256 "9143a699fe5058a6e7f0d5f6baf79674b8d6f26fb70c557b4f73470dd063d810"
+  url "https://github.com/jarun/imgp/archive/v2.4.tar.gz"
+  sha256 "82ef8a0dce5f7a2e64b7d7c8a456f6cfb20ee60350e97e8043361fa96e3efb5e"
 
   depends_on :python3
 
