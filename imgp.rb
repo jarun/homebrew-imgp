@@ -1,10 +1,10 @@
 class Imgp < Formula
   include Language::Python::Virtualenv
 
-  desc "Image resizer and rotator"
+  desc "Resize, rotate JPEG and PNG images."
   homepage "https://github.com/jarun/imgp"
-  url "https://github.com/jarun/imgp/archive/v2.4.tar.gz"
-  sha256 "82ef8a0dce5f7a2e64b7d7c8a456f6cfb20ee60350e97e8043361fa96e3efb5e"
+  url "https://github.com/jarun/imgp/archive/v2.4.1.tar.gz"
+  sha256 "5679ba127b4ea74a2ef4caf0749b67392ea02f0fe73bdc828b1cb24b2d191e07"
 
   depends_on :python3
 
