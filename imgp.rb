@@ -6,7 +6,7 @@ class Imgp < Formula
   url "https://github.com/jarun/imgp/archive/v2.4.1.tar.gz"
   sha256 "6f810104f80f23c1c0967e156921b971947e902d6809c5dae2885777c996eae0"
 
-  depends_on :python
+  depends_on "python3"
 
   def install
     virtualenv_create(libexec, "python3")
