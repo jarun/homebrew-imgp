@@ -3,8 +3,8 @@ class Imgp < Formula
 
   desc "Resize, rotate JPEG and PNG images."
   homepage "https://github.com/jarun/imgp"
-  url "https://github.com/jarun/imgp/archive/v2.8.tar.gz"
-  sha256 "91494f57a110c4439ae956a8a45762467d8deb4606a92f687efdc3a61e4e7cbd"
+  url "https://github.com/jarun/imgp/archive/v2.9.tar.gz"
+  sha256 "4cc3dcbe669ff6b97641ce0c6c332e63934d829a0700fd87171d5be5b1b89305"
 
   depends_on "python3"
 
